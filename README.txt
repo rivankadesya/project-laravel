@@ -22,3 +22,9 @@ DB_PORT=3306
 DB_DATABASE=metaco
 DB_USERNAME={USERNAME}
 DB_PASSWORD={PASSWORD}
+
+
+yang di perlukan
+node v16.13.1
+npm 8.1.2
+PHP 7.3.30
