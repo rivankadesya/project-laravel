@@ -1,7 +1,7 @@
 cara download
 
 git clone git@github.com:rivankadesya/project-laravel.git
-cd laravel-8-complete-blog
+cd project-laravel
 cp .env.example .env
 composer install
 php artisan key:generate
